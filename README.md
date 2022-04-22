@@ -1,4 +1,6 @@
-# Bachelor
+# Bachelor Project Demo
+
+> Group Project with [Sabine Seljeseth](https://github.com/seljeseth)
 
 Cross-platform mobile application to order pickup of waste in Norway. Developed with Flutter amd includes:
 
