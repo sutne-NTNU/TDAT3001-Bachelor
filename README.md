@@ -2,7 +2,7 @@
 
 > Group Project with [Sabine Seljeseth](https://github.com/seljeseth)
 
-Cross-platform mobile application to order pickup of waste in Norway. Developed with Flutter amd includes:
+Cross-platform mobile application to order pickup of waste in Norway. Developed with Flutter and includes:
 
 - SMS-verification
 - User-authentication
